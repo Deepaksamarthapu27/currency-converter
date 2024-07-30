@@ -1,0 +1,67 @@
+Here's the updated HTML for your portfolio website, reflecting the new topic and name:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Samarthapu's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Deepak Samarthapu's Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to Deepak Samarthapu's personal portfolio website! I am a passionate web developer and data science enthusiast.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>My name is Deepak Samarthapu, and I am a student at Aurora University specializing in Data Science. I have a strong background in web development and a passion for learning new technologies. My skills include HTML, CSS, JavaScript, and data analysis.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>
+                <h3>Currency Converter</h3>
+                <p>A web application to convert between different currencies using an API like Exchange Rates API. Users can enter an amount and select currencies to convert between. This project practices API integration and form handling.</p>
+                <a href="link-to-your-project">View Project</a>
+            </li>
+            <li>
+                <h3>Data Analysis Project</h3>
+                <p>Analyzed a dataset to extract meaningful insights and visualizations using Python and Jupyter Notebook.</p>
+                <a href="link-to-your-project">View Project</a>
+            </li>
+            <!-- Add more projects as needed -->
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>You can reach me at:</p>
+        <ul>
+            <li>Email: deepaksamarthapu@gmail.com</li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/deepak-samarthapu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin.com/in/deepak-samarthapu</a></li>
+            <li>GitHub: <a href="https://github.com/deepak-samarthapu">github.com/deepak-samarthapu</a></li>
+        </ul>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+Feel free to replace placeholders with the actual project links and update any other information as needed.
